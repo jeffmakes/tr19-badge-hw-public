@@ -1,0 +1,9 @@
+*.bak
+*-rescue.*
+*.kicad_pcb-bak
+*.net
+*.xml
+*.pdf
+_autosave-*
+_saved_*
+*.csv

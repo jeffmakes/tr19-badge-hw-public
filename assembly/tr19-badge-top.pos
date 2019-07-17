@@ -1,0 +1,23 @@
+### Module positions - created on Tue 26 Feb 2019 19:28:33 GMT ###
+### Printed by Pcbnew version kicad 5.0.2-1.fc29
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                         Package                                              PosX       PosY       Rot  Side
+C12       100nF                       C_0603_1608Metric                                 25.8000   131.1500  270.0000  top
+C20       100nF                       C_0603_1608Metric                                 -9.5000   131.4500  270.0000  top
+C23       100nF                       C_0603_1608Metric                                  2.3000   131.2250  270.0000  top
+C25       100nF                       C_0603_1608Metric                                -22.3750   131.3500  270.0000  top
+C27       100nF                       C_0603_1608Metric                                 14.0000   132.0000  270.0000  top
+C28       100nF                       C_0603_1608Metric                                -34.2000   131.2000  270.0000  top
+D5        WS2812B                     LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_no_silk    18.0000   131.2000    0.0000  top
+D13       WS2812B                     LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_no_silk   -30.0000   131.2000    0.0000  top
+D14       WS2812B                     LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_no_silk   -18.0000   131.2000    0.0000  top
+D15       WS2812B                     LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_no_silk    -6.0000   131.2000    0.0000  top
+D16       WS2812B                     LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_no_silk     6.0000   131.2000    0.0000  top
+D17       WS2812B                     LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_no_silk    29.9000   131.2000    0.0000  top
+R74       1k                          R_0603_1608Metric                                -25.6250   132.4750  180.0000  top
+REF**     Fiducial_1mm_Dia_2mm_Outer  Fiducial_1mm_Dia_2mm_Outer                       -40.0000   123.0000    0.0000  top
+REF**     Fiducial_1mm_Dia_2mm_Outer  Fiducial_1mm_Dia_2mm_Outer                        40.0000   123.0000    0.0000  top
+REF**     Fiducial_1mm_Dia_2mm_Outer  Fiducial_1mm_Dia_2mm_Outer                        14.0000    16.0000    0.0000  top
+S6        _JS1400BFQ                  SW_JS1400BFQ-arrows                              -45.5000   104.5000   90.0000  top
+## End
